@@ -1,3 +1,5 @@
-items: [
+{
+    "items": [
     "MEM", "CPU", "DISK", "MEMSWAP", "DOWNTIME"
   ]
+}

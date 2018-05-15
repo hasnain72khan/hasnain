@@ -1,5 +1,5 @@
 
-    items: [
+    servers: [
        {
             id: 1,
             title: "server3"

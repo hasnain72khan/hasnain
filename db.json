@@ -1,12 +1,12 @@
 
-    "servers": [
+    servers: [
        {
             "id": 1,
-            "title": "server3"
+            "title": "server1"
         },
         {
             "id": 2,
-            "title": "server3"
+            "title": "server2"
         },
         {
             "id": 3,

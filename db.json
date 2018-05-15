@@ -1,21 +1,21 @@
-{
+
     "servers": [
        {
-            id: 1,
-            title: "server3"
+            "id": 1,
+            "title": "server3"
         },
         {
-            id: 2,
-            title: "server3"
+            "id": 2,
+            "title": "server3"
         },
         {
-            id: 3,
-            title: "server3"
+            "id": 3,
+            "title": "server3"
         },
         {
-            id: 4,
-            title: "server4"
+            "id": 4,
+            "title": "server4"
         }
   ]
 
-}
+
